@@ -1,0 +1,6 @@
+The app consume arguments:
+- path to input.csv
+- delimeter
+- index of column to split by (starting with 1)
+
+Output is in the root folder. Each fiie named as it's entry in the column that was used to split the input.
